@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "demo-library",
+  "name": "demo-library-999",
   "author": "Akshay Reddy",
   "module": "dist/demo-library.esm.js",
   "size-limit": [
